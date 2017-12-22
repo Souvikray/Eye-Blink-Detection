@@ -16,7 +16,7 @@ The eye of a person is given six points which maps the entire eye.These six poin
 
 As we can see there are two set of vertical points (P1, P5) and (P2, P4) and a horizontal point (P0, P3).Using these points we calcuate the EAR.
 
-EAR = ||P1 - P5|| + ||P2 - P4|| / 2 * ||P0 - P3||
+***EAR = ||P1 - P5|| + ||P2 - P4|| / 2 * ||P0 - P3||***
 
 Notice that we multiply 2 in the denominator to equalize the effect of adding two set of vertical points.
 
